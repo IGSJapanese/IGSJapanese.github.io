@@ -34,5 +34,18 @@ vocab_ary = {
             {jp="aki",de="Herbst"},
             {jp="fuyu",de="Winter"}
 
-            }
+            },{
+            -- Chapter 5
+            {jp="kuro",de="schwarz"},
+            {jp="ao",de="blau"},
+            {jp="chairo",de="braun"},
+            {jp="haiiro",de="grau"},
+            {jp="midori",de="grün"},
+            {jp="orange",de="dadaiiro"},
+            {jp="pink",de="momoiro"},
+            {jp="murasaki",de="lila"},
+            {jp="aka",de="rot"},
+            {jp="mizuiro",de="himmelblau"},
+            {jp="kiiro",de="gelb"},
+            {jp="shiro",de="weiß"}
             }

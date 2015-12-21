@@ -17,5 +17,6 @@ cname_ary = {
                   "Begrüßungen",
                   "Familie",
                   "Richtungen",
-                  "Jahreszeiten"
+                  "Jahreszeiten",
+                  "Farben"
                   }

@@ -8,7 +8,7 @@ elseif eegg==3 then
 elseif eegg==4 then
  jpde.Caption = jpde.Caption.." - Hannah ist der 'Führer'"
 elseif eegg==5 then
-  jpde.Caption = jpde.Caption.." - Oh ein Osterei"
+  jpde.Caption = jpde.Caption.." - Ist denn schon Ostern?"
 end
 
 

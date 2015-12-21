@@ -1,14 +1,14 @@
 eegg = math.random(6)
 if eegg==1 then
- jpde.Caption = jpde.Caption.."Hey Tom"
+ jpde.Caption = jpde.Caption.." - Hey Tom"
 elseif eegg==2 then
- jpde.Caption = jpde.Caption.."Sascha protokolliert"
+ jpde.Caption = jpde.Caption.." - Sascha protokolliert"
 elseif eegg==3 then
- jpde.Caption = jpde.Caption.."Chris wars"
+ jpde.Caption = jpde.Caption.." - Chris wars"
 elseif eegg==4 then
- jpde.Caption = jpde.Caption.."Hannah ist der 'Führer'"
+ jpde.Caption = jpde.Caption.." - Hannah ist der 'Führer'"
 elseif eegg==5 then
-  jpde.Caption = jpde.Caption.."Oh ein Osterei"
+  jpde.Caption = jpde.Caption.." - Oh ein Osterei"
 end
 
 

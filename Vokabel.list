@@ -1,1 +1,38 @@
+vocab_ary = {
+            {
+            -- Chapter 1
+            {jp="Arigatou",de="Danke"},
+            {jp="Konnichiwa",de="Guten Tag"},
+            {jp="Koubanwa",de="Guten Abend"},
+            {jp="Ohayoo",de="Guten Morgen"},
+            {jp="Ohayoo",de="Guten Morgen"},
+            {jp="Sayounara",de="Auf Wiedersehen"},
+            {jp="Tadaima",de="Ich bin zurück"},
+            {jp="Okaeri",de="Willkommen zu Hause"},
+            {jp="Sumimasen",de="Entschuldigung"}
 
+            },{
+            -- Chapter 2
+            {jp="Oneesan",de="Schwester"},
+            {jp="Oniisan",de="Bruder"},
+            {jp="Otoosan",de="Vater"},
+            {jp="Okaasan",de="Mutter"},
+            {jp="Obaasan",de="Oma"},
+            {jp="Ojiisan",de="Opa"},
+
+            },{
+            -- Chapter 3
+            {jp="Kita",de="Norden"},
+            {jp="Minami",de="Süden"},
+            {jp="Higashi",de="Westen"},
+            {jp="Nishi",de="Osten"}
+
+            },{
+            -- Chapter 4
+            {jp="haru",de="Frühling"},
+            {jp="natsu",de="Sommer"},
+            {jp="aki",de="Herbst"},
+            {jp="fuyu",de="Winter"}
+
+            }
+            }

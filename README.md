@@ -1,2 +1,2 @@
 
-# http://LS4WT.github.io
+# http://IGSJapanese.github.io

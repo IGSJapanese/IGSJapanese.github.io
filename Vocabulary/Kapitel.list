@@ -1,11 +1,6 @@
---[[
 cname_ary = {
                   "Begrüßungen",
                   "Familie",
                   "Richtungen",
                   "Jahreszeiten"
-                  }
-]]
-cname_ary = {
-                  "Testkapitel"
                   }

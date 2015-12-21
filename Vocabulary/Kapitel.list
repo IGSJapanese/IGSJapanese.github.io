@@ -1,5 +1,5 @@
 eegg = math.random(6)
-if eegg > 0 then
+if eegg==1 then
  jpde.Caption = jpde.Caption.." - Hey Tom"
 elseif eegg==2 then
  jpde.Caption = jpde.Caption.." - Sascha protokolliert"
